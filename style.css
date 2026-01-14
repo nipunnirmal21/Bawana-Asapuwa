@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #d35400; /* Monk Robe Color - Saffron/Orange */
+    --secondary-color: #2e8b57; /* Nature Green */
+    --bg-color: #fdfbf7; /* Creamy White */
+    --text-color: #333333;
+    --light-text: #ffffff;
+    --overlay-color: rgba(0, 0, 0, 0.5);
+    --card-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
