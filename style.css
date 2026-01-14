@@ -23,3 +23,6 @@ body {
     line-height: 1.6;
     overflow-x: hidden;
 }
+h1, h2, h3, h4, h5 {
+    font-family: 'Abhaya Libre', serif; /* More traditional/artistic font for headings */
+}
