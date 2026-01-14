@@ -16,3 +16,10 @@
 html {
     scroll-behavior: smooth;
 }
+body {
+    font-family: 'Noto Sans Sinhala', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    overflow-x: hidden;
+}
