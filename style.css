@@ -44,3 +44,6 @@ img {
     margin: 0 auto;
     padding: 0 20px;
 }
+.section-padding {
+    padding: 80px 0;
+}
