@@ -31,3 +31,6 @@ a {
     color: inherit;
     transition: 0.3s;
 }
+ul {
+    list-style: none;
+}
