@@ -26,3 +26,8 @@ body {
 h1, h2, h3, h4, h5 {
     font-family: 'Abhaya Libre', serif; /* More traditional/artistic font for headings */
 }
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: 0.3s;
+}
