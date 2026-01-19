@@ -86,3 +86,6 @@ nav.scrolled {
     color: var(--light-text);
     font-family: 'Abhaya Libre', serif;
 }
+nav.scrolled .logo {
+    color: var(--primary-color);
+}
