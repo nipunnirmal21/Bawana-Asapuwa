@@ -61,3 +61,12 @@ img {
     color: #666;
 }
 /* --- Navigation Bar --- */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 0;
+    z-index: 1000;
+    transition: all 0.3s ease;
+}
