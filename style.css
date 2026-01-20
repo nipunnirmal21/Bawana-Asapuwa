@@ -89,3 +89,7 @@ nav.scrolled {
 nav.scrolled .logo {
     color: var(--primary-color);
 }
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
