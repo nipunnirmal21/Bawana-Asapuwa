@@ -104,3 +104,9 @@ nav.scrolled .nav-links li a {
 .nav-links li a:hover {
     color: var(--primary-color);
 }
+.hamburger {
+    display: none;
+    color: var(--light-text);
+    font-size: 1.5rem;
+    cursor: pointer;
+}
