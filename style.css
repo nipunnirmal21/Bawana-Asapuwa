@@ -93,3 +93,8 @@ nav.scrolled .logo {
     display: flex;
     gap: 20px;
 }
+.nav-links li a {
+    color: var(--light-text);
+    font-weight: 500;
+    font-size: 1.05rem;
+}
