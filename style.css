@@ -110,3 +110,6 @@ nav.scrolled .nav-links li a {
     font-size: 1.5rem;
     cursor: pointer;
 }
+nav.scrolled .hamburger {
+    color: var(--text-color);
+}
