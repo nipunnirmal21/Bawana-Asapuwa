@@ -114,3 +114,15 @@ nav.scrolled .hamburger {
     color: var(--text-color);
 }
 /* --- Hero Section --- */
+.hero {
+    height: 100vh;
+    background-image: url('images/d751b00a-3bc4-4842-aaaa-762fe0006eb2.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
