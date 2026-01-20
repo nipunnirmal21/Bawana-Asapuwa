@@ -101,3 +101,6 @@ nav.scrolled .logo {
 nav.scrolled .nav-links li a {
     color: var(--text-color);
 }
+.nav-links li a:hover {
+    color: var(--primary-color);
+}
