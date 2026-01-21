@@ -142,3 +142,8 @@ nav.scrolled .hamburger {
     padding: 20px;
     animation: fadeIn 1.5s ease;
 }
+.hero h1 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
