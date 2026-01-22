@@ -167,3 +167,8 @@ nav.scrolled .hamburger {
     background-color: transparent;
     color: white;
 }
+.btn.outline {
+    background-color: transparent;
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
