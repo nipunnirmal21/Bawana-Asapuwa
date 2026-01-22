@@ -172,3 +172,7 @@ nav.scrolled .hamburger {
     border-color: var(--primary-color);
     color: var(--primary-color);
 }
+.btn.outline:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
