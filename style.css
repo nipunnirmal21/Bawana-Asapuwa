@@ -163,3 +163,7 @@ nav.scrolled .hamburger {
     transition: 0.3s;
     cursor: pointer;
 }
+.btn:hover {
+    background-color: transparent;
+    color: white;
+}
