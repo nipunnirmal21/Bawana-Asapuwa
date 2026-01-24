@@ -204,3 +204,13 @@ nav.scrolled .hamburger {
 .sangha-section {
     background-color: #f4f1ea; /* Slightly darker cream */
 }
+.chief-monk-card {
+    display: flex;
+    flex-wrap: wrap;
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: var(--card-shadow);
+    margin-bottom: 50px;
+    align-items: center;
+}
