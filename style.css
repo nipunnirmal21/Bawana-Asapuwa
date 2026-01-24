@@ -183,3 +183,7 @@ nav.scrolled .hamburger {
     gap: 50px;
     flex-wrap: wrap;
 }
+.about-img {
+    flex: 1;
+    min-width: 300px;
+}
