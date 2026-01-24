@@ -214,3 +214,8 @@ nav.scrolled .hamburger {
     margin-bottom: 50px;
     align-items: center;
 }
+.chief-monk-img {
+    flex: 1;
+    min-width: 300px;
+    height: 400px;
+}
