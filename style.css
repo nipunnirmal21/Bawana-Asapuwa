@@ -187,3 +187,7 @@ nav.scrolled .hamburger {
     flex: 1;
     min-width: 300px;
 }
+.about-img img {
+    border-radius: 10px;
+    box-shadow: var(--card-shadow);
+}
