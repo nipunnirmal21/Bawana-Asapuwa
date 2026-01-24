@@ -201,4 +201,6 @@ nav.scrolled .hamburger {
     color: var(--primary-color);
 }
 /* --- Sangha Section --- */
-
+.sangha-section {
+    background-color: #f4f1ea; /* Slightly darker cream */
+}
