@@ -239,3 +239,8 @@ nav.scrolled .hamburger {
     display: inline-block;
     margin-bottom: 15px;
 }
+.chief-monk-info h3 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: #333;
+}
