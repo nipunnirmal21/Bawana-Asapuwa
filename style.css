@@ -259,4 +259,13 @@ nav.scrolled .hamburger {
 }
 .monk-card:hover {
     transform: translateY(-5px);
-}monk-card:hover
+}
+.monk-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 20px auto;
+    border: 4px solid #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
