@@ -257,3 +257,6 @@ nav.scrolled .hamburger {
     box-shadow: var(--card-shadow);
     transition: transform 0.3s;
 }
+.monk-card:hover {
+    transform: translateY(-5px);
+}monk-card:hover
