@@ -224,3 +224,8 @@ nav.scrolled .hamburger {
     height: 100%;
     object-fit: cover;
 }
+.chief-monk-info {
+    flex: 1.5;
+    padding: 40px;
+    min-width: 300px;
+}
