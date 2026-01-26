@@ -293,3 +293,7 @@ nav.scrolled .hamburger {
     border: 1px solid #eee;
     transition: 0.3s;
 }
+.event-card:hover {
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    transform: translateX(5px);
+}
