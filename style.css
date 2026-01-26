@@ -320,3 +320,8 @@ nav.scrolled .hamburger {
     padding: 20px;
     flex: 1;
 }
+.event-details h4 {
+    font-size: 1.4rem;
+    margin-bottom: 5px;
+    color: #333;
+}
