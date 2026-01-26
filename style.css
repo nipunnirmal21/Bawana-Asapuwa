@@ -282,3 +282,14 @@ nav.scrolled .hamburger {
 .events-section {
     background-color: #fff;
 }
+.event-card {
+    display: flex;
+    align-items: center;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    margin-bottom: 20px;
+    overflow: hidden;
+    border: 1px solid #eee;
+    transition: 0.3s;
+}
