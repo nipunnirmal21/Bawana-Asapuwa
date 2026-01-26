@@ -312,3 +312,7 @@ nav.scrolled .hamburger {
     font-weight: 800;
     line-height: 1;
 }
+.event-date .month {
+    font-size: 1rem;
+    text-transform: uppercase;
+}
