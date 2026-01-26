@@ -325,3 +325,8 @@ nav.scrolled .hamburger {
     margin-bottom: 5px;
     color: #333;
 }
+.event-meta {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 10px;
+}
