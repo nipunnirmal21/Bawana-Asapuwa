@@ -297,3 +297,13 @@ nav.scrolled .hamburger {
     box-shadow: 0 8px 25px rgba(0,0,0,0.1);
     transform: translateX(5px);
 }
+.event-date {
+    background-color: var(--secondary-color);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    min-width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
