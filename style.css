@@ -274,3 +274,7 @@ nav.scrolled .hamburger {
     margin-bottom: 5px;
     color: var(--primary-color);
 }
+.monk-card p {
+    font-size: 0.95rem;
+    color: #777;
+}
