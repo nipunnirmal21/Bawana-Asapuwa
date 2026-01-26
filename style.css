@@ -330,3 +330,7 @@ nav.scrolled .hamburger {
     color: #666;
     margin-bottom: 10px;
 }
+.event-meta i {
+    margin-right: 5px;
+    color: var(--primary-color);
+}
