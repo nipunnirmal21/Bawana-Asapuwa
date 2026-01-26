@@ -316,3 +316,7 @@ nav.scrolled .hamburger {
     font-size: 1rem;
     text-transform: uppercase;
 }
+.event-details {
+    padding: 20px;
+    flex: 1;
+}
