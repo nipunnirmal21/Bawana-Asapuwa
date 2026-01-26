@@ -279,3 +279,6 @@ nav.scrolled .hamburger {
     color: #777;
 }
 /* --- Upcoming Events Section --- */
+.events-section {
+    background-color: #fff;
+}
