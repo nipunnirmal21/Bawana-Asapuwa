@@ -335,3 +335,6 @@ nav.scrolled .hamburger {
     color: var(--primary-color);
 }
 /* --- Scenery / View Point Section --- */
+.scenery-section {
+    background-color: var(--bg-color);
+}
