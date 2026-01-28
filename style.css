@@ -360,3 +360,6 @@ nav.scrolled .hamburger {
     transform: scale(1.1);
 }
 /* --- New Photo Gallery Section --- */
+.photo-gallery-section {
+    background-color: #fff;
+}
