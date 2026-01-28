@@ -364,3 +364,7 @@ nav.scrolled .hamburger {
     background-color: #fff;
 }
 /* Styles for Hidden Gallery Items */
+.hidden-gallery-item {
+    display: none;
+}
+
