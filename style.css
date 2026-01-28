@@ -376,4 +376,7 @@ nav.scrolled .hamburger {
     transition: 0.3s;
     animation: bounce 2s infinite;
 }
-
+.load-more-btn:hover {
+    transform: scale(1.2);
+    color: var(--secondary-color);
+}
