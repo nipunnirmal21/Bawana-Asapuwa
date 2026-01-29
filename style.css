@@ -386,3 +386,6 @@ nav.scrolled .hamburger {
     60% {transform: translateY(-5px);}
 }
 /* --- Video Carousel Section --- */
+.video-section {
+    background-color: #fdfbf7;
+}
