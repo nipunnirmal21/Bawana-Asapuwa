@@ -396,3 +396,11 @@ nav.scrolled .hamburger {
     justify-content: center;
     padding: 0 40px;
 }
+.video-track-container {
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    width: 100%;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
