@@ -407,3 +407,16 @@ nav.scrolled .hamburger {
 .video-track-container::-webkit-scrollbar {
     display: none;
 }
+.video-track {
+    display: flex;
+    gap: 20px;
+    padding: 10px 0;
+}
+.video-card {
+    min-width: calc(33.333% - 14px);
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
