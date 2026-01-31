@@ -404,3 +404,6 @@ nav.scrolled .hamburger {
     scrollbar-width: none;
     -ms-overflow-style: none;
 }
+.video-track-container::-webkit-scrollbar {
+    display: none;
+}
