@@ -491,4 +491,5 @@ nav.scrolled .hamburger {
     background-color: var(--primary-color);
     transform: translateY(-50%) scale(1.1);
 }
+.prev-btn { left: 0; }
   
