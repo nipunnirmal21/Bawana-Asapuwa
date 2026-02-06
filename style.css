@@ -509,3 +509,6 @@ nav.scrolled .hamburger {
     transition: transform 0.3s ease;
     border-top: 5px solid var(--secondary-color);
 }
+.program-card:hover {
+    transform: translateY(-10px);
+}
