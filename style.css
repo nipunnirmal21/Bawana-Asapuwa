@@ -500,3 +500,12 @@ nav.scrolled .hamburger {
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
 }
+.program-card {
+    background: white;
+    padding: 40px 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: var(--card-shadow);
+    transition: transform 0.3s ease;
+    border-top: 5px solid var(--secondary-color);
+}
