@@ -495,3 +495,8 @@ nav.scrolled .hamburger {
 .next-btn { right: 0; }  
 
 /* --- Programs Section --- */
+.programs-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
