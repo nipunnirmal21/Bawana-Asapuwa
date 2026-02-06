@@ -512,3 +512,8 @@ nav.scrolled .hamburger {
 .program-card:hover {
     transform: translateY(-10px);
 }
+.program-icon {
+    font-size: 3rem;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+}
