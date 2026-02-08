@@ -579,4 +579,7 @@ nav.scrolled .hamburger {
     gap: 15px;
     font-size: 1.1rem;
 }
+.needs-items li i {
+    color: var(--secondary-color);
+}
 
