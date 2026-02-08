@@ -532,3 +532,12 @@ nav.scrolled .hamburger {
     flex-wrap: wrap;
     justify-content: center;
 }
+.donation-card {
+    flex: 1;
+    min-width: 300px;
+    background: var(--bg-color);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: var(--card-shadow);
+    border-top: 5px solid var(--primary-color);
+}
