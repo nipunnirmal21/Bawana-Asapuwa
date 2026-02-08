@@ -522,3 +522,7 @@ nav.scrolled .hamburger {
     font-size: 1.5rem;
 }
 /* --- Donation Section --- */
+.donation-section {
+    background-color: #fff;
+    border-top: 1px solid #eee;
+}
