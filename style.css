@@ -566,3 +566,7 @@ nav.scrolled .hamburger {
     border-bottom: 1px dashed #eee;
     padding-bottom: 5px;
 }
+.bank-info p:last-child {
+    border-bottom: none;
+}
+
