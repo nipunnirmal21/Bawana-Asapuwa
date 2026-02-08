@@ -560,3 +560,9 @@ nav.scrolled .hamburger {
     border: 1px solid #ddd;
     margin-top: 20px;
 }
+.bank-info p {
+    margin-bottom: 10px;
+    font-size: 1.05rem;
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 5px;
+}
