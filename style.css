@@ -541,3 +541,10 @@ nav.scrolled .hamburger {
     box-shadow: var(--card-shadow);
     border-top: 5px solid var(--primary-color);
 }
+.donation-icon {
+    font-size: 2.5rem;
+    color: var(--secondary-color);
+    margin-bottom: 20px;
+    display: block;
+    text-align: center;
+}
