@@ -526,3 +526,9 @@ nav.scrolled .hamburger {
     background-color: #fff;
     border-top: 1px solid #eee;
 }
+.donation-container {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
