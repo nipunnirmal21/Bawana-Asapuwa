@@ -572,4 +572,11 @@ nav.scrolled .hamburger {
 .needs-items {
     margin-top: 20px;
 }
+.needs-items li {
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 1.1rem;
+}
 
