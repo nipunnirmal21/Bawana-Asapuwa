@@ -594,3 +594,9 @@ nav.scrolled .hamburger {
     flex-wrap: wrap;
     margin-top: 30px;
 }
+.guideline-item {
+    flex: 1;
+    min-width: 200px;
+    max-width: 250px;
+    text-align: center;
+}
