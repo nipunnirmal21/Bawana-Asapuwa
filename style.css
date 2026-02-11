@@ -600,3 +600,9 @@ nav.scrolled .hamburger {
     max-width: 250px;
     text-align: center;
 }
+.guideline-icon {
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
