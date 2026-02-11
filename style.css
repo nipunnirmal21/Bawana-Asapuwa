@@ -587,3 +587,10 @@ nav.scrolled .hamburger {
     background-color: #f8f9fa;
     text-align: center;
 }
+.guidelines-grid {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
