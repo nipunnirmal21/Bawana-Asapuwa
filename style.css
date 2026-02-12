@@ -619,3 +619,7 @@ nav.scrolled .hamburger {
     margin-bottom: 10px;
     color: #333;
 }
+.guideline-item p {
+    font-size: 0.9rem;
+    color: #666;
+}
