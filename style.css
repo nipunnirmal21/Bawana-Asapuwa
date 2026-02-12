@@ -625,3 +625,9 @@ nav.scrolled .hamburger {
 }
 
 /* --- Quote Section --- */
+.quote-section {
+    background-color: var(--secondary-color);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
