@@ -637,3 +637,8 @@ nav.scrolled .hamburger {
     font-family: 'Abhaya Libre', serif;
 }
 /* --- Footer --- */
+footer {
+    background-color: #222;
+    color: #ddd;
+    padding-top: 60px;
+}
