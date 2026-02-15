@@ -656,3 +656,7 @@ footer {
 .footer-col ul li {
     margin-bottom: 10px;
 }
+.footer-col ul li a:hover {
+    color: var(--primary-color);
+    padding-left: 5px;
+}
