@@ -653,3 +653,6 @@ footer {
     margin-bottom: 20px;
     font-size: 1.3rem;
 }
+.footer-col ul li {
+    margin-bottom: 10px;
+}
