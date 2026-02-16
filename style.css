@@ -681,3 +681,8 @@ footer {
     font-size: 0.9rem;
 }
 /* --- Responsive Queries (Enhanced for Mobile Optimization) --- */
+@media (max-width: 900px) {
+    .video-card {
+         min-width: calc(50% - 10px);
+    }
+}
