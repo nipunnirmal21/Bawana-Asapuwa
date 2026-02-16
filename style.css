@@ -686,3 +686,6 @@ footer {
          min-width: calc(50% - 10px);
     }
 }
+@media (max-width: 768px){
+    
+}
