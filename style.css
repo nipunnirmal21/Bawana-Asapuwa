@@ -716,3 +716,4 @@ footer {
     .nav.scrolled .nav-links { top: 60px; }
 
     /* Layout Adjustments */
+    .chief-monk-card { flex-direction: column; }
