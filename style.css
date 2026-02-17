@@ -717,3 +717,4 @@ footer {
 
     /* Layout Adjustments */
     .chief-monk-card { flex-direction: column; }
+    .chief-monk-img { height: 300px; width: 100%; }
