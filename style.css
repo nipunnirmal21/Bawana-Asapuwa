@@ -711,3 +711,4 @@ footer {
         transition: 0.4s ease;
         box-shadow: 0 5px 10px rgba(0,0,0,0.1);
     }
+    .nav-links.active { max-height: 600px; padding: 20px 0; }
