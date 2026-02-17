@@ -697,3 +697,9 @@ footer {
 }
 .hamburger { display: block; }
 /* Navigation */
+.nav-links {
+        position: absolute;
+        top: 70px;
+        right: 0;
+        width: 100%;
+        background-color: white;
