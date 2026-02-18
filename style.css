@@ -721,4 +721,5 @@ footer {
     .chief-monk-info { padding: 25px; }
 
     .event-card { flex-direction: column; text-align: center; }
-    .event-date { width: 100%; padding: 10px; flex-direction: row;
+    .event-date { width: 100%; padding: 10px; flex-direction: row;gap: 10px; align-items: baseline; justify-content: center; }
+    
