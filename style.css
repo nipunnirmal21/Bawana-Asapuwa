@@ -719,3 +719,5 @@ footer {
     .chief-monk-card { flex-direction: column; }
     .chief-monk-img { height: 300px; width: 100%; }
     .chief-monk-info { padding: 25px; }
+
+    .event-card { flex-direction: column; text-align: center; }
