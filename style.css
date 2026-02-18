@@ -727,5 +727,8 @@ footer {
     /* --- FIXED SECTIONS BELOW --- */
 
     /* Donations: Stack vertically */
-
+ .donation-container {
+        flex-direction: column;
+        gap: 30px;
+    }
     
