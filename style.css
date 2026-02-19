@@ -736,4 +736,7 @@ footer {
         min-width: 100%; /* Force full width on mobile */
     }
     /* Visitor Guidelines: Align center and fix width */
-    
+    .guideline-item {
+        max-width: 100%;
+        width: 100%;
+    }
