@@ -741,3 +741,6 @@ footer {
         width: 100%;
     }
     /* Quote: Better padding */
+    .quote-section {
+        padding: 40px 20px;
+    }
