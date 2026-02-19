@@ -735,3 +735,9 @@ footer {
         padding: 30px 20px;
         min-width: 100%; /* Force full width on mobile */
     }
+    /* Visitor Guidelines: Align center and fix width */
+    .guidelines-grid {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
