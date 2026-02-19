@@ -731,4 +731,7 @@ footer {
         flex-direction: column;
         gap: 30px;
     }
-    
+    .donation-card {
+        padding: 30px 20px;
+        min-width: 100%; /* Force full width on mobile */
+    }
