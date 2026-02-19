@@ -744,3 +744,6 @@ footer {
     .quote-section {
         padding: 40px 20px;
     }
+    .quote-text {
+        font-size: 1.4rem;
+    }
