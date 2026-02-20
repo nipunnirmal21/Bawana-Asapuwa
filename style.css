@@ -753,3 +753,6 @@ footer {
         text-align: center;
         gap: 30px;
     }
+    .footer-col ul li a:hover {
+        padding-left: 0; /* Remove side movement on mobile hover */
+    }
