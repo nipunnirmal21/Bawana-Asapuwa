@@ -762,3 +762,4 @@ footer {
         margin-top: 15px;
     }
     /* Video & Other */
+    .video-card { min-width: 100%; }
