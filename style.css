@@ -763,3 +763,4 @@ footer {
     }
     /* Video & Other */
     .video-card { min-width: 100%; }
+     .video-carousel-container { padding: 0 10px; }
