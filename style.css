@@ -756,3 +756,8 @@ footer {
     .footer-col ul li a:hover {
         padding-left: 0; /* Remove side movement on mobile hover */
     }
+    .social-links {
+        display: flex;
+        justify-content: center;
+        margin-top: 15px;
+    }
