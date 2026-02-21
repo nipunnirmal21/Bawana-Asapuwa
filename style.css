@@ -787,3 +787,7 @@ footer {
     display: block;
     max-width: 90%;
     max-height: 90vh;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+    animation: zoom 0.3s;
+}
