@@ -806,3 +806,9 @@ footer {
     cursor: pointer;
     z-index: 2001;
 }
+.close-lightbox:hover,
+.close-lightbox:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
