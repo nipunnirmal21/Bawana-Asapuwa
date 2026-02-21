@@ -782,3 +782,8 @@ footer {
     justify-content: center;
     align-items: center;
 }
+.lightbox-content {
+    margin: auto;
+    display: block;
+    max-width: 90%;
+    max-height: 90vh;
