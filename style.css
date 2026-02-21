@@ -795,3 +795,9 @@ footer {
     from {transform:scale(0)}
     to {transform:scale(1)}
 }
+.close-lightbox {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: #f1f1f1;
+    font-size: 40px;
