@@ -766,5 +766,12 @@ footer {
     .video-card { min-width: 100%; }
      .video-carousel-container { padding: 0 10px; }
      .nav-btn { width: 35px; height: 35px; font-size: 1rem; }
-     
+
 /* --- Lightbox Styles --- */
+.lightbox {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    padding-top: 0;
+    left: 0;
+    top: 0;
