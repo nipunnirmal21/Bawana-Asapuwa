@@ -813,3 +813,6 @@ footer {
     cursor: pointer;
 }
 /* --- Development Section Styles --- */
+.development-section {
+    background-color: #f4f1ea;
+}
