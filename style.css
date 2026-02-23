@@ -822,3 +822,8 @@ footer {
     gap: 30px;
     margin-bottom: 40px;
 }
+.dev-card {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
