@@ -827,3 +827,9 @@ footer {
     padding: 30px;
     border-radius: 15px;
     display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    box-shadow: var(--card-shadow);
+    transition: 0.3s;
+    border-left: 5px solid var(--primary-color);
+}
