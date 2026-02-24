@@ -859,4 +859,10 @@ footer {
     color: var(--text-color);
 }
 /* Responsive adjustments for mobile */
-
+@media (max-width: 768px) {
+    .dev-card {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}
