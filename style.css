@@ -840,3 +840,8 @@ footer {
     font-size: 2.5rem;
     color: var(--secondary-color);
 }
+.dev-info h3 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    color: var(--primary-color);
+}
