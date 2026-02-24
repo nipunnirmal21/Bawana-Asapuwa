@@ -852,3 +852,11 @@ footer {
     border-radius: 15px;
     box-shadow: var(--card-shadow);
 }
+.dev-appeal p {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: var(--text-color);
+}
+
+
