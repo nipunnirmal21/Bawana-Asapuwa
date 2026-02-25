@@ -21,3 +21,7 @@ if (hamburger) {
         navLinks.classList.toggle('active');
 
         // Toggle icon shape
+        const icon = hamburger.querySelector('i');
+        if (navLinks.classList.contains('active')) {
+            icon.classList.remove('fa-bars');
+            icon.classList.add('fa-times');
