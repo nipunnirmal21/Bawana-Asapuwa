@@ -19,3 +19,5 @@ const navLinksItems = document.querySelectorAll('.nav-links li a');
 if (hamburger) {
     hamburger.addEventListener('click', () => {
         navLinks.classList.toggle('active');
+
+        // Toggle icon shape
