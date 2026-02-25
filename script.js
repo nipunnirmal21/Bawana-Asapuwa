@@ -15,3 +15,7 @@ if (navbar) {
 const hamburger = document.getElementById('hamburger');
 const navLinks = document.getElementById('nav-links');
 const navLinksItems = document.querySelectorAll('.nav-links li a');
+
+if (hamburger) {
+    hamburger.addEventListener('click', () => {
+        navLinks.classList.toggle('active');
