@@ -32,3 +32,8 @@ if (hamburger) {
     });
 }
 // Close mobile menu when a link is clicked
+if (navLinksItems) {
+    navLinksItems.forEach(item => {
+        item.addEventListener('click', () => {
+            if (navLinks) navLinks.classList.remove('active');
+            if (hamburger) {
