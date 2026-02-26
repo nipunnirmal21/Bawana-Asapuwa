@@ -48,3 +48,4 @@ if (navLinksItems) {
 }
 
 // Helper Function for Load More functionality to be reusable
+function setupLoadMore(buttonId, hiddenItemClass, sectionId)
