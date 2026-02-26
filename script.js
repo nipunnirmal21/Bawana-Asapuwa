@@ -37,3 +37,12 @@ if (navLinksItems) {
         item.addEventListener('click', () => {
             if (navLinks) navLinks.classList.remove('active');
             if (hamburger) {
+                const icon = hamburger.querySelector('i');
+                if (icon) {
+                    icon.classList.remove('fa-times');
+                    icon.classList.add('fa-bars');
+                }
+            }
+        });
+    });
+}
