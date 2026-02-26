@@ -31,3 +31,4 @@ if (hamburger) {
         }
     });
 }
+// Close mobile menu when a link is clicked
