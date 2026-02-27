@@ -57,3 +57,6 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
             const icon = this.querySelector('i');
             if (icon.classList.contains('fa-chevron-down')) {
                 // Expand
+                 items.forEach(item => {
+                    item.classList.remove('hidden-gallery-item');
+                    
