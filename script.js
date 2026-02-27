@@ -66,3 +66,4 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
                 this.title = "අඩු කරන්න";
             } else {
                 // Collapse
+                items.forEach(item => {
