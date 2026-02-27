@@ -51,3 +51,7 @@ if (navLinksItems) {
 function setupLoadMore(buttonId, hiddenItemClass, sectionId){
     const btn = document.getElementById(buttonId);
      const items = document.querySelectorAll(hiddenItemClass);
+
+     if (btn) {
+        btn.addEventListener('click', function() {
+            const icon = this.querySelector('i');
