@@ -62,3 +62,4 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
                     item.style.animation = 'fadeIn 0.5s ease forwards';
                 });
                 icon.classList.remove('fa-chevron-down');
+                icon.classList.add('fa-chevron-up');
