@@ -61,3 +61,4 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
                     item.classList.remove('hidden-gallery-item');
                     item.style.animation = 'fadeIn 0.5s ease forwards';
                 });
+                icon.classList.remove('fa-chevron-down');
