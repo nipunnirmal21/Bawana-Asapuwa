@@ -56,3 +56,4 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
         btn.addEventListener('click', function() {
             const icon = this.querySelector('i');
             if (icon.classList.contains('fa-chevron-down')) {
+                // Expand
