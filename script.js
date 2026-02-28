@@ -68,3 +68,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
                 // Collapse
                 items.forEach(item => {
                     item.classList.remove('hidden-gallery-item');
+                    item.style.animation = 'fadeIn 0.5s ease forwards';
+                });
