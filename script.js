@@ -74,3 +74,4 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
                  icon.classList.add('fa-chevron-up');
                  this.title = "අඩු කරන්න";
             } else {
+                // Collapse
