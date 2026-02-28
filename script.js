@@ -67,3 +67,4 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
             } else {
                 // Collapse
                 items.forEach(item => {
+                    item.classList.remove('hidden-gallery-item');
