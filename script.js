@@ -86,4 +86,4 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
         });
     }
 }
-                    
+             // Initialize Load More for Photo Gallery       
