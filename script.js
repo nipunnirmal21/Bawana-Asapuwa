@@ -90,3 +90,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
              setupLoadMore('gallery-load-more', '.gallery-hidden', 'photo-gallery');
 
              // Initialize Load More for History
+             setupLoadMore('history-load-more', '.history-hidden', 'history');
+
