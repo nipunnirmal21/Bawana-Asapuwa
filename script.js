@@ -87,3 +87,4 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
     }
 }
              // Initialize Load More for Photo Gallery       
+             setupLoadMore('gallery-load-more', '.gallery-hidden', 'photo-gallery');
