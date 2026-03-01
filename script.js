@@ -81,4 +81,9 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
                 icon.classList.remove('fa-chevron-up');
                  icon.classList.add('fa-chevron-down');
                   this.title = "තවත් පින්තූර බලන්න";
+                  document.getElementById(sectionId).scrollIntoView({ behavior: 'smooth' });
+            }
+        });
+    }
+}
                     
