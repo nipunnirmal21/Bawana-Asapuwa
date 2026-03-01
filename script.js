@@ -78,4 +78,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
                 items.forEach(item => {
                     item.classList.add('hidden-gallery-item');
                 });
+                icon.classList.remove('fa-chevron-up');
                     
