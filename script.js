@@ -95,4 +95,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
              // Initialize Load More for Social Services
              setupLoadMore('social-load-more', '.social-hidden', 'social-services');
             
+             // Video Carousel Logic
 
