@@ -98,3 +98,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
              // Video Carousel Logic
              // Video Carousel Logic
 
+             const videoTrackContainer = document.getElementById('video-track-container');
+
