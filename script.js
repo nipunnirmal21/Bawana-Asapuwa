@@ -100,4 +100,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
 
              const videoTrackContainer = document.getElementById('video-track-container');
              const prevBtn = document.getElementById('video-prev');
+             const nextBtn = document.getElementById('video-next');
 
