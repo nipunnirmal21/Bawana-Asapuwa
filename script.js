@@ -92,3 +92,6 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
              // Initialize Load More for History
              setupLoadMore('history-load-more', '.history-hidden', 'history');
 
+             // Initialize Load More for Social Services
+            
+
