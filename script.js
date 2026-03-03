@@ -108,4 +108,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
                      videoTrackContainer.scrollBy({ left: scrollAmount, behavior: 'smooth' });
     });
 }
+if (prevBtn && videoTrackContainer) {
 
