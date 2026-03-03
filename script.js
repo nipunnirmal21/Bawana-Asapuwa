@@ -113,4 +113,4 @@ if (prevBtn && videoTrackContainer) {
         videoTrackContainer.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
     });
 }
-
+// --- Lightbox Functionality ---
