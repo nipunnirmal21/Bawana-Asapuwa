@@ -104,4 +104,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
 
              const scrollAmount = 350;// එක පාරකට කොච්චර දුර යනවද කියන එක
              if (nextBtn && videoTrackContainer) {
+                 nextBtn.addEventListener('click', () => {
 
