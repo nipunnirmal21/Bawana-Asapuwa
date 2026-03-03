@@ -109,4 +109,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
     });
 }
 if (prevBtn && videoTrackContainer) {
+    prevBtn.addEventListener('click', () => {
 
