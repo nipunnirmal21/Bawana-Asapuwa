@@ -102,5 +102,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
              const prevBtn = document.getElementById('video-prev');
              const nextBtn = document.getElementById('video-next');
 
-             const scrollAmount = 350;
+             const scrollAmount = 350;// එක පාරකට කොච්චර දුර යනවද කියන එක
 
