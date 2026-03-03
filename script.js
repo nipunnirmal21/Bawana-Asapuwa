@@ -103,4 +103,5 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
              const nextBtn = document.getElementById('video-next');
 
              const scrollAmount = 350;// එක පාරකට කොච්චර දුර යනවද කියන එක
+             if (nextBtn && videoTrackContainer) {
 
