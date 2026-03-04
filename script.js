@@ -123,3 +123,4 @@ const galleryImages = document.querySelectorAll('#scenery .gallery-item img, #ph
 if (lightbox && lightboxImg) {
      galleryImages.forEach(img => {
         img.addEventListener('click', () => {
+            lightbox.style.display = 'flex';
