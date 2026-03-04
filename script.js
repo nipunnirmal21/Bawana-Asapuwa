@@ -119,3 +119,4 @@ const lightboxImg = document.getElementById('lightbox-img');
 const closeBtn = document.querySelector('.close-lightbox');
 
 // Select images ONLY from Scenery (#scenery) and Photo Gallery (#photo-gallery) sections
+const galleryImages = document.querySelectorAll('#scenery .gallery-item img, #photo-gallery .gallery-item img');
