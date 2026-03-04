@@ -122,3 +122,4 @@ const closeBtn = document.querySelector('.close-lightbox');
 const galleryImages = document.querySelectorAll('#scenery .gallery-item img, #photo-gallery .gallery-item img');
 if (lightbox && lightboxImg) {
      galleryImages.forEach(img => {
+        img.addEventListener('click', () => {
