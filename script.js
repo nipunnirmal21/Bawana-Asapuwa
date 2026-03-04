@@ -124,3 +124,6 @@ if (lightbox && lightboxImg) {
      galleryImages.forEach(img => {
         img.addEventListener('click', () => {
             lightbox.style.display = 'flex';
+            lightboxImg.src = img.src;
+        });
+    });
