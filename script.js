@@ -139,3 +139,4 @@ if (lightbox && lightboxImg) {
         }
     });
 }
+// 1. Load More පහසුකම සොඳුරු පරිසරයට එක් කිරීම
