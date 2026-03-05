@@ -132,3 +132,4 @@ if (lightbox && lightboxImg) {
             lightbox.style.display = 'none';
         });
     }
+    // Close when clicking outside the image
