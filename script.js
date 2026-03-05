@@ -134,3 +134,4 @@ if (lightbox && lightboxImg) {
     }
     // Close when clicking outside the image
     lightbox.addEventListener('click', (e) => {
+         if (e.target === lightbox) {
