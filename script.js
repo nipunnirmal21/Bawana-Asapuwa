@@ -128,3 +128,4 @@ if (lightbox && lightboxImg) {
         });
     });
     if (closeBtn) {
+         closeBtn.addEventListener('click', () => {
