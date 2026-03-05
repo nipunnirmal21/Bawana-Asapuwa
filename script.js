@@ -127,3 +127,4 @@ if (lightbox && lightboxImg) {
             lightboxImg.src = img.src;
         });
     });
+    if (closeBtn) {
