@@ -129,3 +129,6 @@ if (lightbox && lightboxImg) {
     });
     if (closeBtn) {
          closeBtn.addEventListener('click', () => {
+            lightbox.style.display = 'none';
+        });
+    }
