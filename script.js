@@ -141,3 +141,5 @@ if (lightbox && lightboxImg) {
 }
 // 1. Load More පහසුකම සොඳුරු පරිසරයට එක් කිරීම
 setupLoadMore('scenery-load-more', '.scenery-hidden', 'scenery');
+
+// 2. Lightbox පහසුකම සියලුම ඡායාරූප වලට එක් කිරීම
