@@ -146,3 +146,4 @@ setupLoadMore('scenery-load-more', '.scenery-hidden', 'scenery');
 // (Scenery, History, Social Services, Photo Gallery යන සියල්ල සඳහාම)
 
 const allGalleryImages = document.querySelectorAll('.gallery-item img');
+if (lightbox && lightboxImg) {
