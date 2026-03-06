@@ -143,3 +143,4 @@ if (lightbox && lightboxImg) {
 setupLoadMore('scenery-load-more', '.scenery-hidden', 'scenery');
 
 // 2. Lightbox පහසුකම සියලුම ඡායාරූප වලට එක් කිරීම
+// (Scenery, History, Social Services, Photo Gallery යන සියල්ල සඳහාම)
