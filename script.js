@@ -149,3 +149,4 @@ const allGalleryImages = document.querySelectorAll('.gallery-item img');
 if (lightbox && lightboxImg) {
      allGalleryImages.forEach(img => {
         img.addEventListener('click', () => {
+             lightbox.style.display = 'flex';
