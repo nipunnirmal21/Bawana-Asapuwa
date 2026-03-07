@@ -150,3 +150,7 @@ if (lightbox && lightboxImg) {
      allGalleryImages.forEach(img => {
         img.addEventListener('click', () => {
              lightbox.style.display = 'flex';
+              lightboxImg.src = img.src;
+        });
+    });
+}
