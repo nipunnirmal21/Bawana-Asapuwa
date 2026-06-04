@@ -73,7 +73,8 @@ function setupLoadMore(buttonId, hiddenItemClass, sectionId){
                 icon.classList.remove('fa-chevron-down');
                  icon.classList.add('fa-chevron-up');
                  this.title = "අඩු කරන්න";
-            } else {
+            } else 
+                {
                 // Collapse
                 items.forEach(item => {
                     item.classList.add('hidden-gallery-item');
